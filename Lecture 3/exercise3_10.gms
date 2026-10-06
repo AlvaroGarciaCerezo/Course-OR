@@ -22,7 +22,7 @@ CImax   Investment budget [€]       /100000/
 ;
 
 * Include the values of Rho(d) included in file dataRho_3_10.
-$include dataRho_3_10
+$include dataRho_3_10.gms
 
 parameter CGI(g) Investment cost of generating unit g [€\MW]
 /
@@ -44,7 +44,7 @@ g6  12
 ;
 
 * Include the values of PD(d,h) included in file dataPD_3_10.
-$include dataPD_3_10
+$include dataPD_3_10.gms
 
 parameter PGmaxOld(g) Capacity of existing generating unit g [MW]
 /
