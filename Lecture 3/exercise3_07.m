@@ -8,8 +8,8 @@ clear;
 close all;
 clc;
 
-% Run exercise3_6.m.
-exercise3_6;
+% Run exercise3_06.m.
+exercise3_06;
 
 % Export weight data.
 set1 = 'd';
