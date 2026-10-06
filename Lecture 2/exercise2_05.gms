@@ -3,7 +3,7 @@
 * 2026
 * Lecture 2
 * Exercise 5
-*
+* 
 * One time period is considered for the sake of simplicity.
 * Neglect ramping limits along with start-up and shut-down costs.
 
